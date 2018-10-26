@@ -10,8 +10,8 @@ config_version=3
 
 [application]
 
-config/name="helloGodot"
-run/main_scene="res://Greeter.tscn"
+config/name="loonyLips"
+run/main_scene="res://LoonyLips.tscn"
 config/icon="res://icon.png"
 
 [rendering]
